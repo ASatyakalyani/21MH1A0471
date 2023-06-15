@@ -1,0 +1,21 @@
+.parent{
+    display: flex;
+    background-color: rgb(15, 104, 139);
+}
+.child{
+    
+ color:black;
+ letter-spacing: 1px;
+ padding: 70px;
+ width:500px;
+}
+.item{
+    height: 100px;
+    width: 500px;
+}
+.child1{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    
+}
